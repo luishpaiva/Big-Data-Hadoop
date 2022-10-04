@@ -1,0 +1,23 @@
+1. País com a maior quantidade de transações comerciais efetuadas.
+R - 
+
+2. Mercadoria com a maior quantidade de transações comerciais no Brasil (como a base de dados está em inglês, utilize Brazil).
+R - 
+
+3. Quantidade de transações comerciais realizadas por ano.
+R - 
+
+4. Mercadoria com maior quantidade de transações financeiras.
+R - 
+
+5. Mercadoria com maior quantidade de transações financeiras em 2016.
+R - 
+
+6. Mercadoria com maior quantidade de transações financeiras em 2016, no Brasil (como a base de dados está em inglês, utilize Brazil).
+R - 
+
+7. Mercadoria com maior total de peso, de acordo com todas as transações comerciais.
+R - 
+
+8. Mercadoria com maior total de peso, de acordo com todas as transações comerciais, separadas por ano.
+R - 
